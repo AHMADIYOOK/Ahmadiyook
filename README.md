@@ -1,0 +1,2 @@
+# Ahmadiyook
+Mining ethereum
